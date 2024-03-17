@@ -1,8 +1,9 @@
 ### Hi, I'm Ellie Lu 👋
 
-I'm currently studying for a Master of Business Analytics and love to explore new technologies and build exciting projects. 
+I'm currently studying for a Master of Business Analytics in Suffolk University and love to explore new technologies and build exciting projects. 
+✨I'll be sharing my latest endeavors right here on GitHub.
 
-🔭 I’m currently working on honing my skills in Python programming and machine learning with SAS.
+🔭 I’m currently working on honing my skills in Python programming and machine learning with SAS. 
 
 🌱 I’m currently learning about natural language processing and deep learning techniques.
 
